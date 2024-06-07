@@ -10,4 +10,5 @@ public class InternetShopBucketApplication {
 		SpringApplication.run(InternetShopBucketApplication.class, args);
 	}
 
+
 }
